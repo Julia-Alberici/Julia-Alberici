@@ -1,6 +1,6 @@
 ## print(" hi there \\o/ Welcome to my Github! ")
 
-<img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
+<img align="left" src="https://github.com/Julia-Alberici/Julia-Alberici/blob/main/Assets/pusheencode.gif"/>
 
 <p></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><em> Web developer looking for opportunitys</em></p>
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="30vw"/> <em>  currently studying Javascript </em></p>
