@@ -4,7 +4,7 @@
 
 
 <p></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"><em> Web developer</em></p>
-<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="50"/> <em>  Currently studying REACT.js </em></p>
+<p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="50"/> <em>  Currently studying Angular </em></p>
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1" width="45"/> <em>design enthusiast</em></p>
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/happy.gif?raw=1" width="30"/> <em> In love with science, tech, math & art</em></p>
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/coin.gif?raw=1" width="30"/> <em> MOBA games player</em></p>
