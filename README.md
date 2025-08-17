@@ -1,11 +1,10 @@
-## console.log("Hi, nice to meet you stranger.")
+## console.info("Hi, glad you are here :)")
 
 <img align="left" width="300" src="https://github.com/Julia-Alberici/Julia-Alberici/blob/main/Assets/cat-notebook.gif"/>
 
 
 <p>&emsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"><em> Full Stack Web developer</em></p>
-<p>&emsp;<img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1" width="45"/> <em>Design enthusiast</em></p>
-<p>&emsp;<img src="https://github.com/Julia-Alberici/Julia-Alberici/blob/main/Assets/computer.gif" width="30"/> <em> In love with science, tech, math & art</em></p>
+<p>&emsp;<img src="https://github.com/Julia-Alberici/Julia-Alberici/blob/main/Assets/computer.gif" width="30"/> <em> In love with science, tech & math</em></p>
 <p>&emsp;<img src="https://github.com/Julia-Alberici/Julia-Alberici/blob/main/Assets/game.gif" width="30"/> <em> MOBA games player</em></p>
 <p>&emsp;<img src="https://github.com/anathayna/anathayna/blob/master/assets/nyancat.gif?raw=1" width="70"/> <em> I enjoy coding, animes, biking and cats</em></p>
 
